@@ -151,8 +151,8 @@ Want to know more? [Check out my website ➡️](https://tuhindas.me).
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tuhindas30&show_icons=true&include_all_commits=true&theme=radical&hide_title=true" alt="Tuhin's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tuhindas30&show_icons=true&include_all_commits=true&theme=radical&hide_title=true&hide_rank=true" alt="Tuhin's GitHub Stats" />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tuhindas30&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tuhindas30&layout=compact&theme=radical" alt="Tuhin's top languages" />
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on GitHub._
