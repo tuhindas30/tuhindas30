@@ -9,7 +9,7 @@ A passionate self-taught full-stack web developer from
 I’m a self-taught full stack web developer who loves to work on React.
 
 - 👨 Pronouns: He/Him
-- ✍️ I write and post articles on my [website](https://tuhindas.me/blog) and [Hashnode](https://tuhindas.hashnode.dev)
+- ✍️ I write and post articles on my [website](https://tuhindas.me/blogs) and [Hashnode](https://tuhindas.hashnode.dev)
 - ⚡ Fun fact: I'm an Instrumentation engineer turned full stack web developer
 - 📫 How to reach me: [@tuhindas30](https://twitter.com/tuhindas30)
 
