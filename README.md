@@ -25,11 +25,11 @@ Want to know more? [Check out my website ➡️](https://tuhindas.me).
 <a href="https://linkedin.com/in/tuhindas30" target="_blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="tuhindas30" height="30" width="30" />
 </a>
-<a href="https://instagram.com/tuhin.das.td" target="_blank">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="tuhin.das.td" height="30" width="30" />
+<a href="https://instagram.com/tuhindas.dev" target="_blank">
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="tuhindas.dev" height="30" width="30" />
 </a>
-<a href="https://facebook.com/tuhin.das.td" target="_blank">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-2020-1-1.svg" alt="tuhin.das.td" height="30" width="30" />
+<a href="https://facebook.com/tuhindas.dev" target="_blank">
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-2020-1-1.svg" alt="tuhindas.dev" height="30" width="30" />
 </a>
 <a href="https://tuhindas.hashnode.dev" target="_blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/hashnode.svg" alt="tuhin.das.td" height="30" width="30" />
