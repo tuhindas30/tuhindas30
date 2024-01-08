@@ -2,18 +2,18 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
 </h1>
 
-## Hello 👋, I'm [Tuhin](https://tuhindas.me).
+## Hello 👋, I'm [Tuhin](https://tuhindas.dev).
 
 A passionate self-taught full-stack web developer from
 <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="15"/>.
 I’m a self-taught full stack web developer who loves to work on React.
 
 - 👨 Pronouns: He/Him
-- ✍️ I write and post articles on my [website](https://tuhindas.me/blogs) and [Hashnode](https://tuhindas.hashnode.dev)
+- ✍️ I write and post articles on my [website](https://tuhindas.dev/blogs) and [Hashnode](https://tuhindas.hashnode.dev)
 - ⚡ Fun fact: I'm an Instrumentation engineer turned full stack web developer
 - 📫 How to reach me: [@tuhindas30](https://twitter.com/tuhindas30)
 
-Want to know more? [Check out my website ➡️](https://tuhindas.me).
+Want to know more? [Check out my website ➡️](https://tuhindas.dev).
 
 ## Connect with me:
 
